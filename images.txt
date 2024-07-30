@@ -1,6 +1,9 @@
 --platform=linux/arm64 golang:1.19.4
 --platform=linux/amd64 golang:1.19.4
 
+--platform=linux/arm64 golang:1.22.3
+--platform=linux/amd64 golang:1.22.3
+
 --platform=linux/arm64 node:16.15.0
 --platform=linux/amd64 node:16.15.0
 
