@@ -1,6 +1,3 @@
---platform=linux/arm64 goharbor/swagger:v0.25.0
---platform=linux/amd64 goharbor/swagger:v0.25.0
-
 --platform=linux/arm64 goharbor/registry-photon:v2.11.0
 --platform=linux/amd64 goharbor/registry-photon:v2.11.0
 
