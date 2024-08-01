@@ -1,4 +1,4 @@
---platform=linux/arm64 goharbor/registry-photon:v2.11.0
---platform=linux/amd64 goharbor/registry-photon:v2.11.0
+--platform=linux/arm64 python:3.8.5-slim
+--platform=linux/amd64 python:3.8.5-slim
 
 
