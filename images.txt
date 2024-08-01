@@ -1,4 +1,5 @@
---platform=linux/arm64 python:3.8.5-slim
---platform=linux/amd64 python:3.8.5-slim
+
+--platform=linux/arm64 photon:5.0
+--platform=linux/amd64 photon:5.0
 
 
