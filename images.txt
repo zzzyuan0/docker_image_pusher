@@ -1,5 +1,5 @@
 
---platform=linux/arm64 photon:5.0
---platform=linux/amd64 photon:5.0
+--platform=linux/arm64 golang:1.23
+--platform=linux/amd64 golang:1.23
 
 
